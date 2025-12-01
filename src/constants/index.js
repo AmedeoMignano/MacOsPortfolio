@@ -44,7 +44,7 @@ const dockApps = [
     },
     {
         id: "safari",
-        name: "Articles", // was "Safari"
+        name: "My Releases", // was "Safari"
         icon: "safari.png",
         canOpen: true,
     },
