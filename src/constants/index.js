@@ -351,6 +351,15 @@ const WORK_LOCATION = {
                     position: "top-52 right-80",
                     imageUrl: "/images/project-3.png",
                 },
+                {
+                    id: 5,
+                    name: "Design.fig",
+                    icon: "/images/plain.png",
+                    kind: "file",
+                    fileType: "fig",
+                    href: "https://google.com",
+                    position: "top-60 right-20",
+                },
             ],
         },
     ],
@@ -442,7 +451,7 @@ const TRASH_LOCATION = {
             kind: "file",
             fileType: "img",
             position: "top-10 left-10",
-            imageUrl: "/images/trash-1.png",
+            imageUrl: "/images/",
         },
         {
             id: 2,
@@ -451,7 +460,7 @@ const TRASH_LOCATION = {
             kind: "file",
             fileType: "img",
             position: "top-40 left-80",
-            imageUrl: "/images/trash-2.png",
+            imageUrl: "/images/",
         },
     ],
 };
@@ -460,7 +469,7 @@ export const locations = {
     work: WORK_LOCATION,
     about: ABOUT_LOCATION,
     resume: RESUME_LOCATION,
-    trash: TRASH_LOCATION,
+   // trash: TRASH_LOCATION,
 };
 
 const INITIAL_Z_INDEX = 1000;
