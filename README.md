@@ -1,16 +1,48 @@
-# React + Vite
+# 🖥 MacOs Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Repository: MacOsPortfolio**
 
-Currently, two official plugins are available:
+Vi presento il mio portfolio personalizzato ispirato alla UI del sistema operativo di casa Apple. 
+Qui troverete i miei progetti principali, il mio CV (scaricabile) e tutti i link necessari per contattarmi!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Caratteristiche principali
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+**- UI:** In stile MacOs e super interrattiva ⚡️  
+**- Windows:** Finestre interattive e draggabili, proprio come in un sistema operativo  
+**- Folders:** Cartelle con all'interno i progetti con file cliccabili e apribili  
+**- Welcome:** Welcome text con animazione interattiva, creato utilizzando GSAP  
+**- Stores:** Gestione dello store delle finestre e del location per le cartelle, tutto usando Zustand  
+**- Resume:** CV leggibile dal portfolio e scaricabile. Accesso da Navbar(Resume) e finder  
+**- Dock:** Completamente interrattivo  
+**- Terminal:** Terminale simulato per mostrare le mie stack skill  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🔧 Stack Tecnologico
+
+- React vite
+- Tailwind CSS
+- Lucide
+- GSAP
+- Zustand
+- React-tooltip
+- React-pdf
+- immer
+- dayjs
+
+---
+
+## 📜 Autore
+👤 **Amedeo Mignano**  
+GitHub: https://github.com/AmedeoMignano
+
+---
+
+### 🌍 Deploy/Demo
+https://my-mac-os-portfolio.vercel.app/
+
+
+
