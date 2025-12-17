@@ -6,7 +6,7 @@ import useWindowStore from "#store/window.js";
 const Navbar = () => {
     const { openWindow } = useWindowStore();
     return (
-        <nav>
+        <nav className="hidden sm:flex">
             <div>
                 <img src="/images/logo.svg" alt="logo"/>
                 <p className="font-bold">Amedeo's Portfolio</p>
