@@ -384,7 +384,7 @@ const ABOUT_LOCATION = {
             kind: "file",
             fileType: "img",
             position: "top-52 left-80",
-            imageUrl: "/images/ames3.jpeg",
+            imageUrl: "/images/ames3.jpg",
         },
         {
             id: 4,
@@ -392,7 +392,7 @@ const ABOUT_LOCATION = {
             icon: "/images/txt.png",
             kind: "file",
             fileType: "txt",
-            position: "top-60 left-5",
+            position: "top-50 left-5",
             subtitle: "Meet the Developer Behind the Code",
             image: "/images/ames.jpg",
             description: [
